@@ -6,9 +6,13 @@ Welcome to my Geographical Text Extraction & Parsing project! 🌍✨ This repos
 📜 Table of Contents
 
 Overview
+
 Technologies Used
+
 How It Works
+
 Getting Started
+
 Project Structure
 
 
