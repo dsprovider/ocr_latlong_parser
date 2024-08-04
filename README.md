@@ -18,13 +18,17 @@ Welcome to my Geographical Text Extraction & Parsing project! 🌍✨ This repos
 🎯 How It Works
 
 1. Extract Text from Images
+   
 Run the following command to extract text from images:
+
 python ocr_script.py
 
 The script will prompt you to enter the path to a folder containing image files. The recognized text will be saved in text files within the same folder as the images
 
 2. Parse Coordinates
+   
 Run the following command to parse the extracted coordinates:
+
 python parse_script.py
 
 The script will prompt you to enter the path to a folder containing the text files with extracted text. It will then parse the latitude and longitude values and print them to the console
