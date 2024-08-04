@@ -3,6 +3,15 @@
 Welcome to my Geographical Text Extraction & Parsing project! 🌍✨ This repository contains two Python scripts designed to work together in extracting and processing geographical latitude and longitude values from images. The project demonstrates how to use Pytesseract for text recognition from images and illustrates the parsing of recognized text through the usage of regular expressions to extract the desired geographical latitude and longitude values
 
 
+📜 Table of Contents
+
+Overview
+Technologies Used
+How It Works
+Getting Started
+Project Structure
+
+
 🚀 Overview
 
 - Image Text Extraction Script: utilizes Pillow and Pytesseract to perform Optical Character Recognition (OCR) on images containing geographical coordinates
@@ -47,7 +56,7 @@ Install Required Packages:
 pip install -r requirements.txt
 
 
-📂 File Structure
+📂 Project Structure
 
 ocr_script.py: the script for OCR text extraction
 
