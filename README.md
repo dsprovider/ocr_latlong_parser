@@ -1,4 +1,5 @@
 📸 Geographical Text Extraction & Parsing
+
 Welcome to my Geographical Text Extraction & Parsing project! 🌍✨ This repository contains two Python scripts designed to work together in extracting and processing geographical latitude and longitude values from images. The project demonstrates how to use Pytesseract for text recognition from images and illustrates the parsing of recognized text to extract the desired geographical latitude and longitude values
 
 🚀 Overview
