@@ -63,3 +63,9 @@ ocr_script.py: the script for OCR text extraction
 parse_script.py: the script for parsing latitude and longitude values
 
 images/: sample images for testing
+
+
+
+📜 License
+
+This project is licensed under the MIT License.
