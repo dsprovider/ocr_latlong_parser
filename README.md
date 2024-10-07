@@ -1,9 +1,9 @@
-📸 Geographical Text Extraction & Parsing 📸
+# 📸 Geographical Text Extraction & Parsing 📸
 
 Welcome to my Geographical Text Extraction & Parsing project! 🌍✨ This repository contains two Python scripts designed to work together in extracting and processing geographical latitude and longitude values from images. The project demonstrates how to use Pytesseract for text recognition from images and illustrates the parsing of recognized text through the usage of regular expressions to extract the desired geographical latitude and longitude values
 
 
-📜 Table of Contents
+# 📜 Table of Contents
 
 - Overview
 - Technologies Used
@@ -12,19 +12,19 @@ Welcome to my Geographical Text Extraction & Parsing project! 🌍✨ This repos
 - Project Structure
 
 
-🚀 Overview
+# 🚀 Overview
 
 - Image Text Extraction Script: utilizes Pillow and Pytesseract to perform Optical Character Recognition (OCR) on images containing geographical coordinates
 - Coordinates Parsing Script: takes the extracted text and parses out latitude and longitude values from the text using regular expressions
 
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 - Pillow 🖼️: a Python Imaging Library for opening, manipulating, and processing different image file formats
 - Pytesseract 🧠: a Python wrapper for Google's Tesseract-OCR Engine, perfect for converting images into text
 
 
-🎯 How It Works
+# 🎯 How It Works
 
 1. Extract Text from Images
    
@@ -43,7 +43,7 @@ python parse_script.py
 The script will prompt you to enter the path to a folder containing the text files with extracted text. It will then parse the latitude and longitude values and print them to the console
 
 
-🧩 Getting Started
+# 🧩 Getting Started
 
 Clone the Repository:
 
@@ -56,7 +56,7 @@ Install Required Packages:
 pip install -r requirements.txt
 
 
-📂 Project Structure
+# 📂 Project Structure
 
 ocr_script.py: the script for OCR text extraction
 
@@ -66,6 +66,6 @@ images/: sample images for testing
 
 
 
-📜 License
+# 📜 License
 
 This project is licensed under the MIT License.
